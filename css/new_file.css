@@ -911,8 +911,8 @@ orange circle
 }
 
 .name video {
-	width: 30vw;
-	height: 30vw;
+	width:50vw;
+	height:50vw;
 	border-radius: 15vw;
 	object-fit: fill;
 }
